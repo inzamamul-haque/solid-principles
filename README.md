@@ -1,5 +1,9 @@
 # Solid principles
 
+## A set of guidelines that makes your code easy to maintain, easy to extend and easy to test that is SOLID principles for me. If you write your code following these 5 OOP principles, your code quality will reach heights.
+
+## Here I will explain SOLID principles in the simplest way possible so that even beginners can get a grip on it.
+
 ## S.O.L.I.D is the acronym for five principles of java. They are:
 
 ### S: Single responsibility principle
