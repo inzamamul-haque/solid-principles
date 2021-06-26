@@ -8,7 +8,8 @@
 ### I: Interface segregation principle
 ### D: Dependency inversion principle
 
-![solidPrinciple](https://user-images.githubusercontent.com/54953508/123518288-083d4080-d6c7-11eb-8960-f0edd411fc98.png)
+![sdfg](https://user-images.githubusercontent.com/54953508/123519113-23aa4a80-d6cb-11eb-8906-2063b91b3ba5.png)
+
 
 # Single-responsibility principle
 ## “ A class should have one, and only one, reason to change”
